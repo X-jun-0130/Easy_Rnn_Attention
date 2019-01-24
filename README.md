@@ -38,6 +38,8 @@ padding等
 ## 运行步骤
 Training.py 
 
+由于小霸王运行非常吃力，因此只进行了3词迭代。
+
 ![train and test result](https://github.com/NLPxiaoxu/Easy_Rnn_Attention/blob/master/image/train.jpeg)
 
 predict.py 模型用来对验证文本进行预测
