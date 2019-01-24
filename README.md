@@ -47,5 +47,7 @@ predict.py 模型用来对验证文本进行预测
 验证结果表明，5000条文本准确率达96.5%，取前10条语句的测试结果与原标签对比。
 
 # 参考
+
 https://blog.csdn.net/thriving_fcl/article/details/73381217 
+
 https://github.com/cjymz886/text_rnn_attention
