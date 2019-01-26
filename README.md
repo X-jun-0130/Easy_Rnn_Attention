@@ -1,5 +1,5 @@
 # Easy_Rnn_Attention
-RNN+attention 中文文本分类
+RNN+attention 使用预训练词向量 中文文本分类
 
 # 数据集：
 本实验是使用THUCNews的一个子集进行训练与测试，数据集请自行到THUCTC：一个高效的中文文本分类工具包下载，请遵循数据提供方的开源协议;
